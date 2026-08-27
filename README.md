@@ -1,4 +1,4 @@
-# EtherChat
+# EtherChat 
 
 EtherChat is a serverless-ish peer-to-peer LAN chat application for Windows.
 
