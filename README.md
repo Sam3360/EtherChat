@@ -87,6 +87,11 @@ QR pairing currently generates a signed-in-data-style pairing payload for sharin
 - QR generation is included; camera-based QR scanning is not included yet.
 - There is no message history/database by design.
 
+
+## Usage 
+To use the application head to the website link https://sam3360.github.io/EtherChat/
+[Currently only supports windows]
+
 ## License
 
 MIT
