@@ -1,0 +1,3 @@
+cryptography>=42
+qrcode>=7.4
+Pillow>=10
